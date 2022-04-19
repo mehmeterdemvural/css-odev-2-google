@@ -1,0 +1,17 @@
+nav {
+    margin: 0% 35%;
+}
+
+#birinci {
+    width: 62%;
+    margin: 0% 19%;
+    float: none;
+    background-color: #eeeeee;
+}
+
+#birinci>p {
+    text-indent: 35%;
+}
+#arama {
+    margin-left: 30%;
+}
