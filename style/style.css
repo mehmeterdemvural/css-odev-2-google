@@ -1,53 +1,45 @@
 nav {
-    margin: 0% 35%;
+    width: 26%;
+    margin: auto;
 }
 
 #birinci {
-    width: 62%;
-    margin: 0% 19%;
-    float: none;
+    width: 90%;
+    margin: auto;
     background-color: #eeeeee;
 }
 
-#birinci>p {
-    text-indent: 35%;
-    padding: 0%;
-}
-
 #ikinci {
-    width: 62%;
-    margin: 0% 19%;
-    float: left;
+    width: 90%;
+    height: 80%;
+    margin: auto;
 }
 
 #kutu1 {
     background-color: #7ee5da;
     float: left;
-    margin-left: 20px;
-    width: 35%;
+    width: 34.8%;
+    height: 100px;
+    margin: 0.1%;
 }
 
 #kutu2 {
     background-color: #70ccc2;
     float: left;
-    width: 30%;
+    width: 29.8%;
+    height: 100px;
+    margin: 0.1%;
 }
 
 #kutu3 {
     background-color: #62b3aa;
-    float: left;
-    width: 35%;
+    float: right;
+    width: 34.8%;
+    height: 100px;
+    margin: 0.1%;
 }
-
-
 
 #arama {
-    margin-left: 30%;
-    padding: 0%;
-}
-
-#input1 {
-    display: inline-table;
-    margin-left: 35%;
-    padding: 0%;
+    width: 26%;
+    margin: auto;
 }
